@@ -18,4 +18,4 @@ To get started with SeekJob locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/lijnati/seekjob.git
+   git clone https://github.com/lijnati/SeekJob-Simple-React-App.git
