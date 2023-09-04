@@ -1,8 +1,6 @@
 # SeekJob - Simple Job Finder React App
 
 ![SeekJob App Screenshot](screenshot3.png)
-![SeekJob App Screenshot](screenshot.png)
-![SeekJob App Screenshot](screenshot2.png)
 SeekJob is a simple job finder web application built with React, Tailwind CSS, and Vite. It helps users search for job listings based on various criteria, making it easier to find job opportunities that match their preferences.
 
 
