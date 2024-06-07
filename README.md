@@ -19,22 +19,17 @@ To get started with SeekJob locally, follow these steps:
    ```bash
    git clone https://github.com/lijnati/SeekJob-Simple-React-App.git 
    ```
-2. Navigate to the project directory:
-
-  ```bash
-  cd seekjob
-  ```
-3. Install the project dependencies:
+2. Install the project dependencies:
 
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm run dev
    ```
-5. Open your browser and visit:
+4. Open your browser and visit:
 
  ```bash
  http://localhost:3000

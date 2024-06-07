@@ -12,7 +12,6 @@ import logo10 from "../../assets/tiktok.png";
 import logo11 from "../../assets/ms.png";
 import logo12 from "../../assets/nike.png";
 
-
 const Data = [
   {
     id: 1,
@@ -156,7 +155,7 @@ const Jobs = () => {
           {company}
         </span>
       </div>
-      <button className="border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold text-textColor hover:bg-white group-hover/item:text-textColor group-hover:text-white">
+      <button className="border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold text-textColor hover:bg-black group-hover/item:text-textColor group-hover:text-white">
         Apply Now
       </button>
     </div>

@@ -35,3 +35,8 @@ li:hover::before {
 .card {
   background: #dbd4d4;
 }
+
+
+button:hover {
+  color: black;
+}
